@@ -10,6 +10,6 @@
   "license": "ASL",
   "dependencies": {
     "express": "4.14.x",
-    "js-yaml": "^1.2"
+    "js-yaml": "3.14.x"
   }
 }
